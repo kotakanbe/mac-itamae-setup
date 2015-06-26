@@ -1,0 +1,75 @@
+brew:
+  enable_update: false
+  enable_upgrade: false
+  add_repositories:
+    - homebrew/dupes
+    - homebrew/versions
+    - homebrew/binary
+    - peco/peco
+    - motemen/ghq
+    - caskroom/cask
+    - starhoshi/starhoshicask
+    - peco/peco
+    - homebrew/science
+
+  install_packages:
+    - brew-cask
+    - coreutils
+    - findutils
+    - zsh
+    - bash
+    - vim
+    - tmux
+    - git
+    - hub
+    - tig
+    - ghq
+    - imagemagick
+    - wget
+    - rsync
+    - curl
+    - tree
+    - openssl
+    - libyaml
+    - readline
+    - markdown
+    - jq
+    - peco
+    - ctags
+    - z
+    - rbenv
+    - ruby-build
+    - go
+    - peco
+    - opencv
+    - docker
+    - boot2docker
+    - htop-osx
+    - mercurial
+    - ssh-copy-id
+    - ack
+
+  install_apps:
+    - atom
+    - alfred
+    - google-chrome
+    - iterm2
+    - skype
+    - slack
+    - virtualbox
+    - vagrant
+    - vagrant-manager
+    - google-japanese-ime
+    - dash
+    - github
+    - dropbox
+    - xtrafinder
+    - appcleaner
+    - caffeine
+    - firefox
+    - sourcetree
+    - clamxav
+    - firefoxdeveloperedition-ja
+    - opera
+    - google-drive
+    - lastfm
