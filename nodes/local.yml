@@ -11,6 +11,7 @@ brew:
     - starhoshi/starhoshicask
     - peco/peco
     - homebrew/science
+    - sanemat/font
 
   install_packages:
     - brew-cask
@@ -48,6 +49,12 @@ brew:
     - mercurial
     - ssh-copy-id
     - ack
+    - mongodb
+    - macvim
+    - watch
+    - --vim-powerline ricty
+    - gotags
+    - httpie
 
   install_apps:
     - atom
@@ -60,7 +67,6 @@ brew:
     - vagrant
     - vagrant-manager
     - google-japanese-ime
-    - dash
     - github
     - dropbox
     - xtrafinder
@@ -73,3 +79,11 @@ brew:
     - opera
     - google-drive
     - lastfm
+    - kitematic
+    - recordit
+    - robomongo
+    - yed
+    - coteditor
+    - karabiner
+    - nmap
+    - xquartz
