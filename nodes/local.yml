@@ -87,3 +87,5 @@ brew:
     - karabiner
     - nmap
     - xquartz
+    - chromecast
+    - evernote
